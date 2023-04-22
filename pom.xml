@@ -18,6 +18,7 @@
         <module>account</module>
         <module>common</module>
         <module>jabber</module>
+        <module>send-message</module>
     </modules>
 
     <properties>
@@ -25,7 +26,7 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <java.version>1.8</java.version>
-        <alibaba.druid.version>1.1.10</alibaba.druid.version>
+        <alibaba.druid.version>1.2.8</alibaba.druid.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-cloud-dependencies.version>Hoxton.SR12</spring-cloud-dependencies.version>
         <spring-cloud-alibaba-dependencies.version>2.2.9.RELEASE</spring-cloud-alibaba-dependencies.version>
